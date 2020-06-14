@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\elyzaveta\source\repos\winapi\calc\main.cpp(79): warning C4010: single-line comment contains line-continuation character
+  Calc.vcxproj -> C:\Users\Elyzaveta\source\repos\WinAPI\Debug\Calc.exe
